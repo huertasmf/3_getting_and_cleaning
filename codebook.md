@@ -1,16 +1,11 @@
----
-title: "Codebook"
-output: html_document
----
 
 ### Data Source
-Original data is described in this datasets description.
+Original data is stored in this datasets site with additional description.
 https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Raw data description
 Raw data of the HumanActivity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. 
 The dataset includes the following files:
-=========================================
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 - 'features.txt': List of all features.
